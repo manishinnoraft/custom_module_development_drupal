@@ -1,0 +1,8 @@
+name: 'My First Custom module'
+description: 'This is a first custom module I created'
+type: module
+core_version_requirement: ^9 || ^10
+package: 'Custom Modules'
+dependencies:
+  -drupal:node
+  
